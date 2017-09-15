@@ -10,7 +10,7 @@ For this project, we have:
 1. **Inputs:** *n* (year), *q* (the n-year zero-coupon bond price as % of par), *k* (the increment in bond price, also as % of par). 
 2. **Output:** the change in the *n*-year spot rate in %. 
 
-## USAGE
+## Usage
 In MatLab, type
 ```
 calculateChange(10,60,1)
