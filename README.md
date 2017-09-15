@@ -2,6 +2,8 @@
 
 This is a small program that calculates the relative change (in %) in the *n*-year spot rate if a n-year zero-coupon bond price moves from *q*% to (1+*k*%)*q*%, where *q*% is the quoted price. 
 
+![demo](/images/demo.gif)
+
 ## INPUTS AND OUTPUTS
 1. **Inputs:** *n* (year), *q* (the n-year zero-coupon bond price as % of par), *k* (the increment in bond price, also as % of par). 
 2. **Output:** the change in the *n*-year spot rate in %. 
