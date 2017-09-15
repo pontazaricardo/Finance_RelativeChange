@@ -4,7 +4,7 @@ This is a small program that calculates the relative change (in %) in the *n*-ye
 
 ![demo](/images/demo.gif)
 
-## INPUTS AND OUTPUTS
+## Inputs and outputs
 1. **Inputs:** *n* (year), *q* (the n-year zero-coupon bond price as % of par), *k* (the increment in bond price, also as % of par). 
 2. **Output:** the change in the *n*-year spot rate in %. 
 
