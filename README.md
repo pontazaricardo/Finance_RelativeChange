@@ -18,3 +18,5 @@ calculateChange(10,60,1)
 
 ## Example
 Assume *n*=10, *q*=60, *k*=1. Then the change in the *n*-year spot rate is −1.9971%.
+
+![demo](/image/demo.gif)
