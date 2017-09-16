@@ -12,7 +12,7 @@ For this project, we have:
 
 ## Usage
 In MatLab, type
-```
+```matlab
 calculateChange(10,60,1)
 ```
 
